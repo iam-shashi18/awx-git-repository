@@ -1,0 +1,5 @@
+---
+all:
+  hosts:
+    ubuntu-host:
+      ansible_host: 65.1.107.197
